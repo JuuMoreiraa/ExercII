@@ -1,0 +1,14 @@
+C:\Users\juliana.moliveira52\source\repos\ExercII\bin\Debug\net8.0\ExercII.exe
+C:\Users\juliana.moliveira52\source\repos\ExercII\bin\Debug\net8.0\ExercII.deps.json
+C:\Users\juliana.moliveira52\source\repos\ExercII\bin\Debug\net8.0\ExercII.runtimeconfig.json
+C:\Users\juliana.moliveira52\source\repos\ExercII\bin\Debug\net8.0\ExercII.dll
+C:\Users\juliana.moliveira52\source\repos\ExercII\bin\Debug\net8.0\ExercII.pdb
+C:\Users\juliana.moliveira52\source\repos\ExercII\obj\Debug\net8.0\ExercII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juliana.moliveira52\source\repos\ExercII\obj\Debug\net8.0\ExercII.AssemblyInfoInputs.cache
+C:\Users\juliana.moliveira52\source\repos\ExercII\obj\Debug\net8.0\ExercII.AssemblyInfo.cs
+C:\Users\juliana.moliveira52\source\repos\ExercII\obj\Debug\net8.0\ExercII.csproj.CoreCompileInputs.cache
+C:\Users\juliana.moliveira52\source\repos\ExercII\obj\Debug\net8.0\ExercII.dll
+C:\Users\juliana.moliveira52\source\repos\ExercII\obj\Debug\net8.0\refint\ExercII.dll
+C:\Users\juliana.moliveira52\source\repos\ExercII\obj\Debug\net8.0\ExercII.pdb
+C:\Users\juliana.moliveira52\source\repos\ExercII\obj\Debug\net8.0\ExercII.genruntimeconfig.cache
+C:\Users\juliana.moliveira52\source\repos\ExercII\obj\Debug\net8.0\ref\ExercII.dll
